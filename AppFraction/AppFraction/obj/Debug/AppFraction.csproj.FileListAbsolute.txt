@@ -1,0 +1,2 @@
+C:\Users\marli\source\repos\AppFraction\AppFraction\obj\Debug\AppFraction.csprojAssemblyReference.cache
+C:\Users\marli\source\repos\AppFraction\AppFraction\obj\Debug\AppFraction.csproj.CoreCompileInputs.cache
